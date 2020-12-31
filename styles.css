@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+title {
+	font-weight: bold;
+}
+
+.Special {
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+}
+
+h3 {
+	margin-left: 35em;
+	border: 10px solid white padding: 2.5em;
+	width: 300px;
+}
+
+img {
+	margin-left: 35em;
+	border: 10px solid white padding: 2.5em;
+	width: 300px;
+	height: 200px
+}
+
+.inside {
+	margin-left: 35em;
+	margin-top: 1.0em;
+	border-style: solid;
+	border-color: inherit;
+	padding: 2.5em;
+	width: 300px;
+}
